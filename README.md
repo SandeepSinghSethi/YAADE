@@ -1,2 +1,2 @@
 # YAADE--Yet-Another-AirGapped-Data-Exfiltration-
-Yet another data exfiltration using caps lock backlight of keyboard .
+Yet Another AirGapped Data Exfiltration via CAPS KEY using keyboard backlight.
